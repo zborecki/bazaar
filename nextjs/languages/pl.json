@@ -1,0 +1,8 @@
+{
+  "common": {
+    "hello_world": "Cześć!"
+  },
+  "navigation": {
+    "wishlist": "Koszyk"
+  }
+}
